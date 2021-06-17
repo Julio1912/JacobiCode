@@ -1,0 +1,5 @@
+C:\Users\LiDa\Documents\Visual Studio 2010\Projects\jacobi\jacobi\bin\Debug\jacobi.exe
+C:\Users\LiDa\Documents\Visual Studio 2010\Projects\jacobi\jacobi\bin\Debug\jacobi.pdb
+C:\Users\LiDa\Documents\Visual Studio 2010\Projects\jacobi\jacobi\obj\x86\Debug\jacobi.exe
+C:\Users\LiDa\Documents\Visual Studio 2010\Projects\jacobi\jacobi\obj\x86\Debug\jacobi.pdb
+C:\Users\LiDa\documents\visual studio 2010\Projects\jacobi\jacobi\obj\x86\Debug\jacobi.csprojResolveAssemblyReference.cache
